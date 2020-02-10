@@ -21,10 +21,12 @@
 1. Don't use words like maybe or should
 1. Add facts as much as possible
 1. Discover and write
+1. Provide comparisons
 
 ### Focussed on intent
 
 1. What is it that you want to write?
 1. Why is the need to write?
-1. Tools are replaced faster than practices.
+1. Tools are replaced faster than practices. Write while keeping practice in mind.
+
 
