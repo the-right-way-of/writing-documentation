@@ -26,4 +26,5 @@
 
 1. What is it that you want to write?
 1. Why is the need to write?
+1. Tools are replaced faster than practices.
 
