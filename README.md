@@ -15,6 +15,7 @@
 1. Avoid using all tough words from the dictionary
 1. Don't repeat yourself
 1. Read back what you wrote and ask questions
+1. Put points in right order
 
 ### Unambigous
 
@@ -22,6 +23,7 @@
 1. Add facts as much as possible
 1. Discover and write
 1. Provide comparisons
+1. Add photos as proof
 
 ### Focussed on intent
 
