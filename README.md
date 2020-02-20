@@ -8,7 +8,7 @@
 ### Crisp
 
 1. Use points as much as possible
-1. Index and order the contents in sequence
+1. Index the contents
 
 ### Readable
 
